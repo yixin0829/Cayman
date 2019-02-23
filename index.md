@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Ian Webster
+title: Ian Webster
 ---
 
 ## About Me
