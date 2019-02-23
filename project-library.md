@@ -20,17 +20,16 @@ Outside of servers, I enjoy building computers. I have built an AMD Threadripper
 
 ## Software
 
-### Java Projects
-
-#### 2D Wave Game
+### Java | 2D Wave Game
 This project was created for a highschool computer science course. 
 
-### MATLAB Projects
-
-#### Robot Position Curve Fitting
+### MATLAB | Robot Position Curve Fitting
 Using MATLAB, I used robot position data to curve-fit graphs of position, velocity and acceleration.
 
-### C Projects
+### C | Chord App
+This was created in C. Essentially, the application accepts user input for a type of chord, and then the software will present a staff and the notes to play the chord on a piano.
+
+
 
 
 
