@@ -4,6 +4,12 @@ title: Projects
 description: Welcome to my Project Library!
 ---
 
+## Quick Jump List
+Figure out how to jump to a specific header on a page!!
+DAW Macro Footswitch Pedal
+Robotic Hand
+---etc...
+
 ## Hardware
 
 ### DAW Macro Footswitch Pedal 
