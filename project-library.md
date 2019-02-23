@@ -15,7 +15,6 @@ Robotic Hand
 
 ### DAW Macro Footswitch Pedal 
 I commenced this project to enhance my music composition workflow. As an avid pianist, I love to compose music just as much as I love to perform it. A few years back, I realized that I had difficulty with recording multiple takes in a single recording session. Frustrated by the inefficiencies of the computer keyboard 'shortcuts,' I decided to come up with my own solution to avoid pressing 'spacebar, delete, enter, and R' every time I wanted to re-record a take while composing a song.
-![DAW Footswitch 1](/assets/Project_Pictures/DAW_Footswitch1.jpg)
 <img src="/assets/Project_Pictures/DAW_Footswitch1.jpg" style="transform:rotate(90deg);">
 
 ### MIDI Keytar
