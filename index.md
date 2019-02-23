@@ -14,7 +14,7 @@ My resume can be downloaded from here.
 You can contact me here.
 
 ## Projects
-A library of projects I have completed over the years can be found here [Link to another page](./another-page.html).
+A library of projects I have completed over the years can be found here [Link to project library](./project-library.html).
 
 
 
