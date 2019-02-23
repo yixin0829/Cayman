@@ -11,6 +11,7 @@ Robotic Hand
 ---etc...
 
 ## Hardware
+* * *
 
 ### DAW Macro Footswitch Pedal 
 I commenced this project to enhance my music composition workflow. As an avid pianist, I love to compose music just as much as I love to perform it. A few years back, I realized that I had difficulty with recording multiple takes in a single recording session. Frustrated by the innefficiencies of the computer keyboard 'shortcuts,' I decided to come up with my own solution to avoid pressing 'spacebar, delete, enter, and R' every time I wanted to re-record a take while composing a song.
@@ -25,6 +26,7 @@ I have configured and built many servers over the span of my teenage years. Bein
 Outside of servers, I enjoy building computers. I have built an AMD Threadripper system for a friend (installing watercooling for a Ryzen 2700X), as well as my own dual-boot Windows/Mac OS system on Haswell Architecture. In the mean time, I enjoy revamping various Apple notebooks, upgrading RAM and SSDs in pre-2010 MacBook and MacBook Pro models. 
 
 ## Software
+* * *
 
 ### Java | 2D Wave Game
 This project was created for a highschool computer science course. 
