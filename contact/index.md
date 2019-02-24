@@ -6,15 +6,15 @@ Please enter your name, email, and message in the respective boxes:
 
 <form action="//formspree.io/i.webster@mail.utoronto.ca" method="POST">
  <fieldset>
- <label for="name">Your name</label><br>
+ <label for="name">Name</label><br>
  <input type="text" name="name" placeholder="Name" id="name" required>
  </fieldset>
  <fieldset>
- <label for="_replyto">Your email</label><br>
+ <label for="_replyto">E-mail</label><br>
  <input type="email" name="_replyto" placeholder="example@domain.com" id="_replyto" required>
  </fieldset>
  <fieldset>
- <label for="message">Your message</label><br>
+ <label for="message">Message</label><br>
  <textarea name="message" rows="1" placeholder="Message" id="message" required></textarea>
  </fieldset>
  <input class="hidden" type="text" name="_gotcha" style="display:none">
