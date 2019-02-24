@@ -10,7 +10,7 @@ Hi, my name's Ian! I should tell you a little bit about myself. I currently atte
 This site will showcase some of my past projects while giving you a better idea of who I am.
 
 ## Resume and Contact Information
-My resume can be downloaded from [here (Google Drive).](https://drive.google.com/open?id=14_ZaMpX6zxzTelnVF_CH6pVVhN35HWmf).
+My resume can be downloaded from [here (Google Drive)](https://drive.google.com/open?id=14_ZaMpX6zxzTelnVF_CH6pVVhN35HWmf).
 
 ## Projects
 A library of projects I have completed over the years can be found in my Project Library [here](./project-library.html).
