@@ -16,9 +16,15 @@ Robotic Hand
 ### DAW Macro Footswitch Pedal 
 I commenced this project to enhance my music composition workflow. As an avid pianist, I love to compose music just as much as I love to perform it. A few years back, I realized that I had difficulty with recording multiple takes in a single recording session. Frustrated by the inefficiencies of the computer keyboard 'shortcuts,' I decided to come up with my own solution to avoid pressing 'spacebar, delete, enter, and R' every time I wanted to re-record a take while composing a song.
 
-<img src="/assets/Project_Pictures/DAW_Footswitch1.jpg" alt="DAW_Footswitch1" style="max-width:100%;">
+<div class="row">
+  <div class="column">
+    <img src="/assets/Project_Pictures/DAW_Footswitch1.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/Project_Pictures/Keytar.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
-![DAW Footswitch 1](/assets/Project_Pictures/DAW_Footswitch1.jpg)
 
 ### MIDI Keytar
 This was a fun project to explore music and technology, inspired by Herbie Hancock (famous jazz musician who started out in electrical engineering!) Using an M-Audio Keystation 49 MIDI keyboard, I ran bolts through each side of the keyboard chassis to create mount points for straps. I also added a Samson Graphite MF8 mounted with a wireframe mesh to add additional MIDI transport controls. 
