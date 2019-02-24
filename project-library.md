@@ -47,13 +47,13 @@ This was built to complement that home media servers that I have configured. Bui
 This project was created for a highschool computer science course. I led a team to develop a 2D platformer games using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles.
 
 ### Java | Inventory Management Software
-I developed this application in highschool as well - it takes inputs for item information, and returns stock information in a GUI. Pictures:
+I developed this application in highschool as well - it takes inputs for item information, and returns stock information in a GUI.   
 
 ### MATLAB | Robot Position Curve Fitting
 I have significant experience programming in MATLAB, using scripts for techniques such as vector and matrix operations, numeric and symbolic computation, 2D and 3D graphing, polynomial curve fitting, derivatives, linear systems, and parameterization. Using MATLAB, I imported robot position data and used polynomial curve-fitting techniques to find optimal models for position, velocity and acceleration.
 
 ### C | Chord App
-This was created in C. Essentially, the application accepts user input for a type of chord, and then the software will present a staff and the notes to play the chord on a piano. (or it just lists the scale degrees)
+An idea in the making. Essentially, the application accepts user input for a type of chord, and then the software will present a staff and the notes to play the chord on a piano. It may also list scale degrees.
 
 
-[Back](./)
+[<Back to Home](./)
