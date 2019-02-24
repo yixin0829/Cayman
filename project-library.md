@@ -13,6 +13,10 @@ I commenced this project to enhance my music composition workflow. As an avid pi
 ![DAW Footswitch 1](/assets/Project_Pictures/DAW_Footswitch1.jpg)
 ![DAW Footswitch 2](/assets/Project_Pictures/DAW_Footswitch2.jpg)
 
+Front                                              |  Bottom
+:-------------------------------------------------:|:-------------------------------------------------:
+![](/assets/Project_Pictures/DAW_Footswitch1.jpg)  |  ![](/assets/Project_Pictures/DAW_Footswitch2.jpg)
+
 ### MIDI Keytar
 This was a fun project to explore music and technology, inspired by Herbie Hancock (famous jazz musician who started out in electrical engineering!) Using an M-Audio Keystation 49 MIDI keyboard, I ran bolts through each side of the keyboard chassis to create mount points for straps. I also added a Samson Graphite MF8 mounted with a wireframe mesh to add additional MIDI transport controls. 
 
