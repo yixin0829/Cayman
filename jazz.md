@@ -4,7 +4,7 @@ title: Jazz
 description: My musical side.
 ---
 
-SoundCloud: [Soundcloud](https://soundcloud.com/iwebsterproductions)
+Personal compositions: [Soundcloud](https://soundcloud.com/iwebsterproductions)
 
 Some recordings of my band @ Hot Belly Mama’s Restuarant, Peterborough, ON: [LMJC Archive](https://drive.google.com/open?id=1Hn4TjYWsfGigKvTaUdFP1fDMM10dNhW0)
 
