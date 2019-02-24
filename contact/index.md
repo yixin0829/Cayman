@@ -10,5 +10,5 @@ Please enter your name and text in the respective boxes:
  <textarea placeholder="Enter your message"></textarea>
 <input type="text" name="_gotcha" style="display:none">
  <input type="hidden" name="_subject" value="Message via http://domain.com">
-<input type=”submit” value=”Send”>
+<input type="submit" value="Send">
 </form>
