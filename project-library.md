@@ -35,7 +35,7 @@ I have configured and built many servers over the span of my teenage years. Bein
 Outside of servers, I enjoy building computers. I have built an AMD Threadripper system for a friend (installing watercooling for a Ryzen 2700X), as well as my own dual-boot Windows/Mac OS system on Haswell Architecture. In the meantime, I enjoy revamping various Apple notebooks, upgrading RAM and SSDs in pre-2010 MacBook and MacBook Pro models. 
 
 ### Computer Server Cabinet
-This was built to complement that home media servers that I have configured. Built from plywood, this cabinet houses 5 servers, and well as a monitor on a swing arm. The unit also functions as a standing desk.
+This was built to complement that home media servers that I have configured. Built from plywood, this cabinet houses 5 servers, as well as a monitor on a swing arm. The unit also functions as a standing desk.
 
 ![Server_Cabinet1](/assets/Project_Pictures/Server_Cabinet1.jpg)
 ![Server_Cabinet2](/assets/Project_Pictures/Server_Cabinet2.jpg)
