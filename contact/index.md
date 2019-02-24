@@ -19,5 +19,6 @@ Please enter your name, email, and message in the respective boxes:
  </fieldset>
  <input class="hidden" type="text" name="_gotcha" style="display:none">
  <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
+ 
 <input class="button submit" type="submit" value="Send">
 </form>
