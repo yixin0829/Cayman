@@ -62,4 +62,4 @@ I have significant experience programming in MATLAB, using scripts for technique
 This was created in C. Essentially, the application accepts user input for a type of chord, and then the software will present a staff and the notes to play the chord on a piano. (or it just lists the scale degrees)
 
 
-[back](./)
+[Back](./)
