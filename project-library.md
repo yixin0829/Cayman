@@ -52,7 +52,7 @@ This project was created for a highschool computer science course. I led a team 
 I developed this application in highschool as well - it takes inputs for item information, and returns stock information in a GUI.  
 Add Item                                                                            |  Discontinue Item
 :----------------------------------------------------------------------------------:|:-------------------------------------------------:
-![InventoryTracker_AddItem](/assets/Project_Pictures/InventoryTracker_AddItem.jpg)  |  ![InventoryTrack_DiscontinueItem](/assets/Project_Pictures/InventoryTrack_DeleteItem.jpg)
+![InventoryTracker_AddItem](/assets/Project_Pictures/InventoryTracker_AddItem.jpg)  |![InventoryTrack_DiscontinueItem](/assets/Project_Pictures/InventoryTrack_DeleteItem.jpg)
 
 ### MATLAB | Robot Position Curve Fitting
 I have significant experience programming in MATLAB, using scripts for techniques such as vector and matrix operations, numeric and symbolic computation, 2D and 3D graphing, polynomial curve fitting, derivatives, linear systems, and parameterization. Using MATLAB, I imported robot position data and used polynomial curve-fitting techniques to find optimal models for position, velocity and acceleration.
