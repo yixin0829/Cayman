@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+Description: I will try to get back to you as soon as possible.
 ---
 Please enter your name, email, and message in the respective boxes:
 
