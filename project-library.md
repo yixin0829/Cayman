@@ -50,8 +50,8 @@ This project was created for a highschool computer science course. I led a team 
 
 ### Java | Inventory Management Software
 I developed this application in highschool as well - it takes inputs for item information, and returns stock information in a GUI.  
-Add Item                                                           |  Discontinue Item
-:-----------------------------------------------------------------:|:-------------------------------------------------:
+Add Item                                                                            |  Discontinue Item
+:----------------------------------------------------------------------------------:|:-------------------------------------------------:
 ![InventoryTracker_AddItem](/assets/Project_Pictures/InventoryTracker_AddItem.jpg)  |  ![InventoryTrack_DiscontinueItem](/assets/Project_Pictures/InventoryTrack_DeleteItem.jpg)
 
 ### MATLAB | Robot Position Curve Fitting
