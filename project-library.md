@@ -46,7 +46,7 @@ Front-Down                                                        |  Front
 * * *
 
 ### Java | 2D Wave Game
-This project was created for a highschool computer science course. I led a team to develop a 2D platformer game using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles. 
+This project was created for a highschool computer science course. I led a team to develop a 2D platformer game using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles. YouTube tutorials were the main educational source: RealTutsGML was as a primary resource.
 
 ![WaveGame_1](/assets/Project_Pictures/WaveGame_1.png)
 
