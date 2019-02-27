@@ -50,7 +50,7 @@ Front-Down                                                        |  Front
 * * *
 
 ### Java | 2D Wave Game
-This project was created for a highschool computer science course. I led a team to develop a 2D platformer game using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles. Most of what I learned for this project came from YouTube tutorials - the channel 'RealTutsGML' was used as a primary resource.
+This project was created for a highschool computer science course. I led a team to develop a 2D platformer game using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles. Most of what I learned for this project came from YouTube tutorials - the channel 'RealTutsGML' was used as a primary resource. The following picutres show some gameplay.
 
 ![WaveGame_1](/assets/Project_Pictures/WaveGame_1.png)
 
@@ -64,7 +64,7 @@ I developed this application in highschool as well - it takes inputs for item in
 ![InventoryTracker_AddItem](/assets/Project_Pictures/InventoryTracker_AddItem.jpg) ![InventoryTracker_DiscontinueItem](/assets/Project_Pictures/InventoryTracker_DeleteItem.jpg)
 
 ### MATLAB | Robot Position Curve Fitting
-I have significant experience programming in MATLAB, using scripts for techniques such as vector and matrix operations, numeric and symbolic computation, 2D and 3D graphing, polynomial curve fitting, derivatives, linear systems, and parameterization. Using MATLAB, I imported robot position data and used polynomial curve-fitting techniques to find optimal models for position, velocity and acceleration.
+I have significant experience programming in MATLAB, using scripts for techniques such as vector and matrix operations, numeric and symbolic computation, 2D and 3D graphing, polynomial curve fitting, derivatives, linear systems, and parameterization. Using MATLAB, I imported robot position data and used polynomial curve-fitting techniques to find optimal models for position, velocity and acceleration. Below are some graphs from the final project document.
 
 ![MATLAB_RobotGraph_1](/assets/Project_Pictures/MATLAB_RobotGraph_1.png) ![MATLAB_RobotGraph_2](/assets/Project_Pictures/MATLAB_RobotGraph_2.png)
 
