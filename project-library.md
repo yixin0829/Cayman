@@ -10,6 +10,10 @@ description: Welcome to my Project Library!
 ### DAW Macro Footswitch Pedal 
 I commenced this project to enhance my music composition workflow. As an avid pianist, I love to compose music just as much as I love to perform it. A few years back, I realized that I had difficulty with recording multiple takes in a single recording session. Frustrated by the inefficiencies of the computer keyboard 'shortcuts,' I decided to come up with my own solution to avoid pressing 'spacebar, delete, enter, and R' every time I wanted to re-record a take while composing a song.
 
+To start, I drafted many iterations of the design. I eventually landed on a configuration that utilized the most-used keys when recording a take: spacebar (to stop the current recording), enter (to move the play head back to the start), 'ctrl' and 'z' to be pressed at the same time to undo the recording, and 'r' to record again. I optimized this process with 5 arcade-style buttons and 2 micro-buttons that would be easily pressed in various combinations with a foot. A schematic will be added shortly showing the commands for each key.
+
+In terms of hardware, the main frame is a wedge comprised of 2 pieces of plywood. The angled design enables for a comfortable foot rest while recording. The wiring was done in accordance to the pin-outs of each keyboard controller. A spreadsheet was made to find each corresponding key-out for each pair of pins on each controller. Two controllers were used to accomodate for a faulty controller. USB power was used to power LEDs in the 2 micro-switches, as well as 3 LEDs on the underside of the plywood.
+
 Front                                                              |  Bottom
 :-----------------------------------------------------------------:|:-------------------------------------------------:
 ![DAW_Footswitch 1](/assets/Project_Pictures/DAW_Footswitch1.jpg)  |  ![DAW_Footswitch2](/assets/Project_Pictures/DAW_Footswitch2.jpg)
