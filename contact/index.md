@@ -9,7 +9,7 @@ Please enter your name, email, and message in the respective boxes:
  <label for="name">Name</label><br>
  <input type="text" name="name" placeholder="Name" id="name" required>
  <label for="_replyto">E-mail</label><br>
- <input type="email" name="_replyto" placeholder="example@domain.com" id="_replyto" required>
+ <input type="email" name="_replyto" style="height:200px" placeholder="example@domain.com" id="_replyto" required>
  <label for="message">Message</label><br>
  <textarea name="message" rows="1" placeholder="Message" id="message" required></textarea>
  <input class="hidden" type="text" name="_gotcha" style="display:none">
