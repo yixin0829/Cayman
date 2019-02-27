@@ -14,5 +14,5 @@ Please enter your name, email, and message in the respective boxes:
  <textarea name="message" rows="8" placeholder="Message" id="message" required></textarea>
  <input class="hidden" type="text" name="_gotcha" style="display:none">
  <input class="hidden" type="hidden" name="_subject" value="Message via https://iwebster28/github.io/Cayman">
-<input class="button submit" type="submit" value="Send" style="width: 220px;" />
+<input class="button submit" type="submit" value="Send" />
 </form>
