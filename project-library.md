@@ -15,7 +15,7 @@ Front                                                              |  Bottom
 ![DAW_Footswitch 1](/assets/Project_Pictures/DAW_Footswitch1.jpg)  |  ![DAW_Footswitch2](/assets/Project_Pictures/DAW_Footswitch2.jpg)
 
 ### MIDI Keytar
-This was a fun project to explore music and technology, inspired by Herbie Hancock (famous jazz musician who started out in electrical engineering!) Using an M-Audio Keystation 49 MIDI keyboard, I ran bolts through each side of the keyboard chassis to create mount points for straps. I also added a Samson Graphite MF8 mounted with a wireframe mesh to add additional MIDI transport controls. 
+This was a fun project to explore music and technology, which was inspired by Herbie Hancock, a famous jazz musician who started out in electrical engineering! Using an M-Audio Keystation 49 MIDI keyboard, I ran bolts through each side of the keyboard chassis to create mount points for straps. I then added a Samson Graphite MF8 mounted with a wireframe mesh to add additional MIDI transport controls. This keytar performs nearly identically to modern day equivalents priced at over $1000!
 
 ![Keytar](/assets/Project_Pictures/Keytar.jpg)
 
@@ -36,7 +36,7 @@ I have configured and built many servers over the span of my teenage years. Bein
 Outside of servers, I enjoy building computers. I have built an AMD Threadripper system for a friend (installing watercooling for a Ryzen 2700X), as well as my own dual-boot Windows/Mac OS system on Haswell Architecture. In the meantime, I enjoy revamping various Apple notebooks, upgrading RAM and SSDs in pre-2010 MacBook and MacBook Pro models. 
 
 ### Computer Server Cabinet
-This was built to complement that home media servers that I have configured. Built from plywood, this cabinet houses 5 servers, as well as a monitor on a swing arm. The unit also functions as a standing desk.
+This was built to complement that home media servers that I have configured. The cabinet was first drafted by hand and the area of wood required was calculated. Built from  5/8" plywood, this cabinet houses 5 servers, as well as a monitor on a swing arm. The unit also functions as a standing desk for enhanced ergonomics while working.
 
 Front-Down                                                        |  Front
 :----------------------------------------------------------------:|:-------------------------------------------------:
@@ -46,7 +46,7 @@ Front-Down                                                        |  Front
 * * *
 
 ### Java | 2D Wave Game
-This project was created for a highschool computer science course. I led a team to develop a 2D platformer games using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles.
+This project was created for a highschool computer science course. I led a team to develop a 2D platformer game using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles.
 
 ### Java | Inventory Management Software
 I developed this application in highschool as well - it takes inputs for item information, and returns stock information in a GUI. 
