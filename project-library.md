@@ -46,7 +46,13 @@ Front-Down                                                        |  Front
 * * *
 
 ### Java | 2D Wave Game
-This project was created for a highschool computer science course. I led a team to develop a 2D platformer game using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles.
+This project was created for a highschool computer science course. I led a team to develop a 2D platformer game using object-oriented programming, delegating tasks to individuals and documenting the project in weekly summation journals. To improve project organization, I used IPO charts, pseudocode, and software development lifecycles. 
+
+![WaveGame_1](/assets/Project_Pictures/WaveGame_1.png)
+
+![WaveGame_Boss](/assets/Project_Pictures/WaveGame_Boss.png)
+
+![WaveGame_Lose](/assets/Project_Pictures/WaveGame_Lose.png)
 
 ### Java | Inventory Management Software
 I developed this application in highschool as well - it takes inputs for item information, and returns stock information in a GUI. 
