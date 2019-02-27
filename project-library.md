@@ -54,6 +54,7 @@ I developed this application in highschool as well - it takes inputs for item in
 
 ### MATLAB | Robot Position Curve Fitting
 I have significant experience programming in MATLAB, using scripts for techniques such as vector and matrix operations, numeric and symbolic computation, 2D and 3D graphing, polynomial curve fitting, derivatives, linear systems, and parameterization. Using MATLAB, I imported robot position data and used polynomial curve-fitting techniques to find optimal models for position, velocity and acceleration.
+![MATLAB_RobotGraph_1](/assets/Project_Pictures/MATLAB_RobotGraph_1.png) ![MATLAB_RobotGraph_2](/assets/Project_Pictures/MATLAB_RobotGraph_2.png)
 
 ### C | Chord App
 An idea in the making. Essentially, the application accepts user input for a type of chord, and then the software will present a staff and the notes to play the chord on a piano. It may also list scale degrees.
