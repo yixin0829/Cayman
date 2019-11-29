@@ -18,6 +18,10 @@ Front                                                              |  Bottom
 :-----------------------------------------------------------------:|:-------------------------------------------------:
 ![DAW_Footswitch 1](/assets/Project_Pictures/DAW_Footswitch1.jpg)  |  ![DAW_Footswitch2](/assets/Project_Pictures/DAW_Footswitch2.jpg)
 
+### Portable Raspberry Pi Synth
+This was a project created over the summer of 2019 -  it consists of a Raspberry Pi Zero W, a portable 5V USB battery pack, a USB to 1/8" audio-in and out jack, and LED lighting with a Power switch, all inside a clear plastic enclosure. The Pi is running Raspbian Jesse with an instance of FluidSynth (a software MIDI synthesizer) instantiated on startup. A MIDI keyboard can be plugged in via USB and headphones or a speaker can connect to the audio out jack. This project serves to lighten the load when playing music on the go, or when playing a gig with the MIDI Keytar, as seen below.
+![Raspi_Synth](/assets/Project_Pictures/Raspi_Synth.png)
+
 ### MIDI Keytar
 This was a fun project to explore music and technology, which was inspired by Herbie Hancock, a famous jazz musician who started out in electrical engineering! Using an M-Audio Keystation 49 MIDI keyboard, I ran bolts through each side of the keyboard chassis to create mount points for straps. I then added a Samson Graphite MF8 mounted with a wireframe mesh to add additional MIDI transport controls. This keytar performs nearly identically to modern day equivalents priced at over $1000!
 
