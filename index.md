@@ -9,8 +9,7 @@ Hi, my name's Ian! I should tell you a little bit about myself. I currently atte
 ## What is this site for?
 This site will showcase some of my past projects while giving you a better idea of who I am.
 
-## Resume and Contact Information
-My resume can be downloaded from [here (Google Drive)](https://drive.google.com/open?id=14_ZaMpX6zxzTelnVF_CH6pVVhN35HWmf).
+## Contact Information
 I can be contacted by email [here](./contact/index.html).
 
 ## Projects
