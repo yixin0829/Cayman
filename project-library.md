@@ -20,6 +20,7 @@ Front                                                              |  Bottom
 
 ### Portable Raspberry Pi Synth
 This was a project created over the summer of 2019 -  it consists of a Raspberry Pi Zero W, a portable 5V USB battery pack, a USB to 1/8" audio-in and out jack, and LED lighting with a Power switch, all inside a clear plastic enclosure. The Pi is running Raspbian Jesse with an instance of FluidSynth (a software MIDI synthesizer) instantiated on startup. A MIDI keyboard can be plugged in via USB and headphones or a speaker can connect to the audio out jack. This project serves to lighten the load when playing music on the go, or when playing a gig with the MIDI Keytar, as seen below.
+
 ![RaspiSynth](/assets/Project_Pictures/RaspiSynth.jpg)
 
 ### MIDI Keytar
