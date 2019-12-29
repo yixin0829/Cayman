@@ -73,8 +73,11 @@ I have significant experience programming in MATLAB, using scripts for technique
 
 ![MATLAB_RobotGraph_1](/assets/Project_Pictures/MATLAB_RobotGraph_1.png) ![MATLAB_RobotGraph_2](/assets/Project_Pictures/MATLAB_RobotGraph_2.png)
 
-### C | Chord App
-An idea in the making. Essentially, the application accepts user input for a type of chord, and then the software will present a staff and the notes to play the chord on a piano. It may also list scale degrees.
+### C/C++ | Chord App/Jazzifier
+An app I designed over the summer of 2019 to create pseudo-randomized jazz chord charts for musical inspiration. 
+
+![Jazzifier_Demo](/assets/Project_Pictures/Jazzifier_Demo.png) 
+
 
 
 [<Back to Home](./)
