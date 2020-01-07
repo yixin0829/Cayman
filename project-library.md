@@ -8,8 +8,7 @@ description: Welcome to my Project Library!
 * * *
 
 ### Chord Machine - FPGA Audio Synthesizer
-This was a project for a Digital Systems course in second year ECE at the Unversity of Toronto. Using the DE1-SoC FPGA and Quartus Prime 18.1, I programmed the audio chipset on the DE1-SoC board to create square, triangle and saw waveforms (Verilog). The board can interface with a PS/2 keyboard to allow the user to play along with a built-in 4/4 looper. More details can be read about [here:](https://github.com/iWebster28/Music/blob/master/ChordMachine/ChordMachineFinal/ECE241%20Final%20Project%20Report%20-%20Ian%20Webster%20-%20Github.pdf)
-[YouTube Video](https://youtu.be/eF6zlbV_rJg)
+This was a project for a Digital Systems course in second year ECE at the Unversity of Toronto. Using the DE1-SoC FPGA and Quartus Prime 18.1, I programmed the audio chipset on the DE1-SoC board to create square, triangle and saw waveforms (Verilog). The board can interface with a PS/2 keyboard to allow the user to play along with a built-in 4/4 looper. More details can be read about [here.](https://github.com/iWebster28/Music/blob/master/ChordMachine/ChordMachineFinal/ECE241%20Final%20Project%20Report%20-%20Ian%20Webster%20-%20Github.pdf) You can also watch a [YouTube video of it here: ](https://youtu.be/eF6zlbV_rJg)
 
 ### DAW Macro Footswitch Pedal 
 I commenced this project to enhance my music composition workflow. As an avid pianist, I love to compose music just as much as I love to perform it. A few years back, I realized that I had difficulty with recording multiple takes in a single recording session. Frustrated by the inefficiencies of the computer keyboard 'shortcuts,' I decided to come up with my own solution to avoid pressing 'spacebar, delete, enter, and R' every time I wanted to re-record a take while composing a song.
