@@ -7,6 +7,11 @@ description: Welcome to my Project Library!
 ## Hardware
 * * *
 
+### MLH - MakeUofT 2020 - StayEnlightened
+[GitHub Project](https://github.com/joonhosung/StayEnlightened)
+[Devpost Submission](https://devpost.com/software/stayenlightened)
+This project was created to solve a problem in study spaces with motion-activated lighting: when students are studying (i.e. not moving), lighting will turn off automatically, creating a distraction and making it hard to maintain focus. Our team remedied the problem by using a webcam with OpenCV, Python, Arduino, and the Qualcomm Dragonboard 410C to detect not only motion, but human presence, ensuring the lights are kept on until no humans are present. In this project, I learned how to use OpenCV and Python to grab individual frames from a Logitech webcam. I also integrated the Grove Base Shield on the Qualcomm DragonBoard 410C and implemented a PIR sensor to detect motion using Arduino. Finally, I wrote code to transmit and receive serial data between the Arduino and Python OpenCV camera code.
+
 ### Chord Machine - FPGA Audio Synthesizer
 This was a project for a Digital Systems course in second year ECE at the Unversity of Toronto. Using the DE1-SoC FPGA and Quartus Prime 18.1, I programmed the audio chipset on the DE1-SoC board to create square, triangle and saw waveforms (Verilog). The board can interface with a PS/2 keyboard to allow the user to play along with a built-in 4/4 looper. More details can be read about [here.](https://github.com/iWebster28/Music/blob/master/ChordMachine/ChordMachineFinal/ECE241%20Final%20Project%20Report%20-%20Ian%20Webster%20-%20Github.pdf) You can also watch a YouTube video of it [here.](https://youtu.be/eF6zlbV_rJg)
 
