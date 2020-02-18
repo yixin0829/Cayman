@@ -8,7 +8,7 @@ description: Welcome to my Project Library!
 * * *
 
 ### MLH - MakeUofT 2020 - StayEnlightened
-[GitHub Project](https://github.com/joonhosung/StayEnlightened)
+[GitHub Project](https://github.com/joonhosung/StayEnlightened)  
 [Devpost Submission](https://devpost.com/software/stayenlightened)
 This project was created to solve a problem in study spaces with motion-activated lighting: when students are studying (i.e. not moving), lighting will turn off automatically, creating a distraction and making it hard to maintain focus. Our team remedied the problem by using a webcam with OpenCV, Python, Arduino, and the Qualcomm Dragonboard 410C to detect not only motion, but human presence, ensuring the lights are kept on until no humans are present. In this project, I learned how to use OpenCV and Python to grab individual frames from a Logitech webcam. I also integrated the Grove Base Shield on the Qualcomm DragonBoard 410C and implemented a PIR sensor to detect motion using Arduino. Finally, I wrote code to transmit and receive serial data between the Arduino and Python OpenCV camera code.
 
