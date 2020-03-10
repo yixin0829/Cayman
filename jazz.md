@@ -10,6 +10,8 @@ I've had a bit of history with music. I began taking piano lessons when I was 4 
 ![Terry_Fox_Jazz](/assets/Project_Pictures/Terry_Fox_Jazz.png)
 
 ## Links
+
+Project Videos/Performances: [YouTube]( https://www.youtube.com/channel/UC6JzdYelcu9M9A-flCpVOEQ)
 Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)
 
 Some recordings of my band at Hot Belly Mama’s Restuarant, Peterborough, ON: [Google Drive](https://drive.google.com/open?id=1Hn4TjYWsfGigKvTaUdFP1fDMM10dNhW0)
