@@ -7,9 +7,11 @@ description: My musical side.
 ## Myself and Music
 I've had a bit of history with music. I began taking piano lessons when I was 4 years old. After practicing classical for 10 years, I decided to start exploring other genres: video game soundtracks, orchestral arrangements and jazz. Throughout highschool, I was a part of multiple bands (jazz, concert, and pit orchestra), playing the tenor saxophone and piano. At this time, I began discovering my interest in jazz. I began lessons with the renowned Canadian jazz pianist Steve Holt. A few friends and I formed a band called LMJC, and began performing gigs regularly at a restaurant called Hot Belly Mama's. We played at venues such as Trent University, Long and McQuade music stores, Mercedes-Benz, and various pubs in Peterborough, ON. During the Terry Fox Campaign in 2017, our band campaigned to raise money for cancer research. 
 
-As part of the SKULE engineering community at UofT, I have been both a member and director for "StageBand Blue," a small combo focused on performing jazz standards while developing the skills to play with other musicians. It was a blast organizing weekly practices and gigs. 
+As part of the Skule™ engineering community at UofT, I have been both a member and director for Stage Band Blue, a small combo focused on performing jazz standards while developing the skills to play with other musicians. It was a blast organizing weekly practices and gigs. On the off time, I've occasionally sit in for gigs with Stage Band Gold, with big-band style jazz.
 
-Currently, I'm the pianist in both the UofT Skule Combo and the Hart House Jazz Ensemble.
+In second year, I explored playing more RnB, Funk and Soul with the Skule™ Jazz Combo, and I played more traditional jazz with the Hart House Jazz Combo. 
+
+Now, in my third year, I've taken directorship of the Skule™ Jazz Combo, and I am taking a Music Performance Minor in Jazz Piano.
 
 ![Terry_Fox_Jazz](/assets/Project_Pictures/Terry_Fox_Jazz.png)
 
