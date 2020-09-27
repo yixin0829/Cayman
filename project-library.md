@@ -8,8 +8,8 @@ description: Welcome to my Project Library!
 * * *
 
 ### MLH - To the Moon and Hack 2020 - MuscleMath
-[GitHub Project](https://github.com/eyfb/MuscleMath)
-[Devpost Submission](https://devpost.com/software/muscle-math)
+[GitHub Project](https://github.com/eyfb/MuscleMath)  
+[Devpost Submission](https://devpost.com/software/muscle-math)  
 This was a fantastic hackathon to attend during the pandemic in the summer of 2020. In this project, I was able to apply what I had learned from working over the summer as a Software Engineering Intern. With knowledge of Node.js, HTML and CSS, I learned to use chart.js to graph data fetched asynchronously from a csv, and I used csv-writer to append data to a csv. I also learned to use Express.js for routing pages. Coming out of this hackathon, I gained a newfound appreciation for web development, and I am continuing to learn more about web technologies on UofT's newly founded Cloud Club software team.
 
 ### Split Mechanical Keyboard
