@@ -10,6 +10,7 @@ description: Welcome to my Project Library!
 ### MLH - To the Moon and Hack 2020 - MuscleMath
 [GitHub Project](https://github.com/eyfb/MuscleMath)  
 [Devpost Submission](https://devpost.com/software/muscle-math)  
+
 This was a fantastic hackathon to attend during the pandemic in the summer of 2020. In this project, I was able to apply what I had learned from working over the summer as a Software Engineering Intern. With knowledge of Node.js, HTML and CSS, I learned to use chart.js to graph data fetched asynchronously from a csv, and I used csv-writer to append data to a csv. I also learned to use Express.js for routing pages. Coming out of this hackathon, I gained a newfound appreciation for web development, and I am continuing to learn more about web technologies on UofT's newly founded Cloud Club software team.
 
 ### Split Mechanical Keyboard
@@ -20,6 +21,7 @@ Built over the summer of 2020 as a fun side project, this keyboard is split for 
 ### MLH - MakeUofT 2020 - StayEnlightened
 [GitHub Project](https://github.com/joonhosung/StayEnlightened)  
 [Devpost Submission](https://devpost.com/software/stayenlightened)  
+
 This project was created to solve a problem in study spaces with motion-activated lighting: when students are studying (i.e. not moving), lighting will turn off automatically, creating a distraction and making it hard to maintain focus. Our team remedied the problem by using a webcam with OpenCV, Python, Arduino, and the Qualcomm Dragonboard 410C to detect not only motion, but human presence, ensuring the lights are kept on until no humans are present. In this project, I learned how to use OpenCV and Python to grab individual frames from a Logitech webcam. I also integrated the Grove Base Shield on the Qualcomm DragonBoard 410C and implemented a PIR sensor to detect motion using Arduino. Finally, I wrote code to transmit and receive serial data between the Arduino and Python OpenCV camera code.
 
 ### Chord Machine - FPGA Audio Synthesizer
