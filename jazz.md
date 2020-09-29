@@ -15,6 +15,36 @@ description: My musical side.
   </iframe> 
 </p>
 
+<p>
+  <iframe
+    src="https://drive.google.com/file/d/1IT9XCzNBUyBnnIppIcIHTJQHZOkcPsTr/preview"
+    scrolling="auto"
+    width="100%" 
+    height="400" 
+    frameborder="0" >
+  </iframe> 
+</p>
+
+<p>
+  <iframe
+    src="https://drive.google.com/file/d/14rGW7JuqpTg2-VoUnwPqeIndwvWBUoGH/preview"
+    scrolling="auto"
+    width="100%" 
+    height="400" 
+    frameborder="0" >
+  </iframe> 
+</p>
+
+<p>
+  <iframe
+    src="https://drive.google.com/file/d/1rkrxxIOzsBEL91c6qR-bjsx-ikJ5j4CZ/preview"
+    scrolling="auto"
+    width="100%" 
+    height="400" 
+    frameborder="0" >
+  </iframe> 
+</p>
+
 ## Myself and Music
 I've had a bit of history with music. I began taking piano lessons when I was 4 years old. After practicing classical for 10 years, I decided to start exploring other genres: video game soundtracks, orchestral arrangements and jazz. Throughout highschool, I was a part of multiple bands (jazz, concert, and pit orchestra), playing the tenor saxophone and piano. At this time, I began discovering my interest in jazz. I began lessons with the renowned Canadian jazz pianist Steve Holt. A few friends and I formed a band called LMJC, and began performing gigs regularly at a restaurant called Hot Belly Mama's. We played at venues such as Trent University, Long and McQuade music stores, Mercedes-Benz, and various pubs in Peterborough, ON. During the Terry Fox Campaign in 2017, our band campaigned to raise money for cancer research. 
 
