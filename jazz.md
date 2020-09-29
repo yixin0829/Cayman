@@ -5,7 +5,6 @@ description: My musical side.
 ---
 ## Recent Transcriptions
 
-<iframe src="https://drive.google.com/file/d/1F-lxRHYd0XG6X9WAJX1IBY1TbArTbyGN/preview" width="640" height="480"></iframe>
 
 <p>
   <iframe
