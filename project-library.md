@@ -13,6 +13,10 @@ description: Welcome to my Project Library!
 
 This was a fantastic hackathon to attend during the pandemic in the summer of 2020. In this project, I was able to apply what I had learned from working over the summer as a Software Engineering Intern. With knowledge of Node.js, HTML and CSS, I learned to use chart.js to graph data fetched asynchronously from a csv, and I used csv-writer to append data to a csv. I also learned to use Express.js for routing pages. Coming out of this hackathon, I gained a newfound appreciation for web development, and I am continuing to learn more about web technologies on UofT's newly founded Cloud Club software team.
 
+<!--YouTube-->
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yJsUVUOrPow' frameborder='0' allowfullscreen></iframe></div>
+<br>
+
 ### Split Mechanical Keyboard
 Built over the summer of 2020 as a fun side project, this keyboard is split for better ergonomics, and features wrist rests for reduced strain on wrists. This project was built using the following [thingiverse project](https://www.thingiverse.com/thing:2879329). Cherry MX Red mechanical switches were soldered with a wire and diode matrix. The firmware was generated from this [tool](https://kbfirmware.com/) and flashed to an Arduino Pro Micro. One addition I made to this project was a reset push-button to enable firmware flashing with updated keyboard layers/macros. The case was 3D printed using an Ender 3 Pro with tranparent and white PLA.
   
