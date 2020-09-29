@@ -6,7 +6,7 @@ description: My musical side.
 ## Recent Transcriptions
 <p>
   <iframe
-    src="https://docs.google.com/viewer?url=https://drive.google.com/file/d/1F-lxRHYd0XG6X9WAJX1IBY1TbArTbyGN/preview"
+    src="https://docs.google.com/viewer?url=https://drive.google.com/file/d/1F-lxRHYd0XG6X9WAJX1IBY1TbArTbyGN/view"
     scrolling="auto"
     width="100%" 
     height="400" 
