@@ -16,6 +16,24 @@ This was a fantastic hackathon to attend during the pandemic in the summer of 20
 <!--YouTube-->
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yJsUVUOrPow' frameborder='0' allowfullscreen></iframe></div>
 
+### CS50AI - Harvard's Introduction to Artificial Intelligence and Machine Learning
+I had a lot of fun doing the projects for CS50AI. I hadn't used Python to much of an extent before this course, but I happily learned it to be able to play around with some cool AI-driven projects. Here's the final project, an AI that answers questions using the nltk library and TF-IDF to rank documents in the AI's knowledge base of wikipedia articles.  
+<!--YouTube-->
+<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=0b5fYlgueTo' frameborder='0' allowfullscreen></iframe></div>
+
+#### Full list of projects:
+•	Implemented an AI Tic-Tac-Toe game using pygame, using depth-limited minimax and alpha-beta pruning for speed  
+•	Learned to use propositional logic to solve minesweeper and “Knights and Knaves” logic puzzles  
+•	Wrote a PageRank system using sampling with Markov Chains, and recursive iteration with a damping factor  
+•	Learned how to use unconditional probabilities to guess a family member’s probability of possessing certain genes  
+•	Created a crossword puzzle generator using AC-3 arc consistency to enforce domains of possible words  
+•	Used scikit-learn to solve a supervised learning problem in which the program predicts whether or not a shopper will complete an online purchase, using nearest-neighbour classification  
+•	Wrote an AI to play ‘Nim’ (strategy game) by using Q-Learning, the Epsilon-Greedy algorithm and training 10K games  
+•	Implemented a multi-layered CNN to identify types of street signs using the gtsrb dataset  
+•	Wrote a natural language parser with nltk, using context-free grammar to build trees and extract noun-chunk phrases  
+•	Built an AI to answer questions using nltk and TF-IDF to rank existing documents in the AI’s knowledge base  
+
+
 ### Split Mechanical Keyboard
 Built over the summer of 2020 as a fun side project, this keyboard is split for better ergonomics, and features wrist rests for reduced strain on wrists. This project was built using the following [thingiverse project](https://www.thingiverse.com/thing:2879329). Cherry MX Red mechanical switches were soldered with a wire and diode matrix. The firmware was generated from this [tool](https://kbfirmware.com/) and flashed to an Arduino Pro Micro. One addition I made to this project was a reset push-button to enable firmware flashing with updated keyboard layers/macros. The case was 3D printed using an Ender 3 Pro with tranparent and white PLA.
   
