@@ -19,7 +19,7 @@ This was a fantastic hackathon to attend during the pandemic in the summer of 20
 ### CS50AI - Harvard's Introduction to Artificial Intelligence with Python
 I had a lot of fun doing the projects for CS50AI. I hadn't used Python to much of an extent before this course, but I happily learned it to be able to play around with some cool AI-driven projects. Here's the final project, an AI that answers questions using the nltk library and TF-IDF to rank documents in the AI's knowledge base of wikipedia articles.  
 <!--YouTube-->
-<div class='embed-container'><iframe src='https://www.youtube.com/watch?v=0b5fYlgueTo' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/0b5fYlgueTo' frameborder='0' allowfullscreen></iframe></div>
 
 #### Full list of projects:
 •	Implemented an AI Tic-Tac-Toe game using pygame, using depth-limited minimax and alpha-beta pruning for speed  
