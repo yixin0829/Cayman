@@ -32,6 +32,9 @@ Here is an example of how a corner case (in which 2 corners of the original spec
 (the blue points are those found by goodFeaturesToTrack)  
 ![corner_case_before_after](/assets/Project_Pictures/corner_case_before_after.png)
 
+What would I change for next time?  
+I would try to minimize the number of unneccessary points found on the original spectrogram. A potential method could be to create a mask of the original spectrogram, reduce the size by a small %, and then use goodFeaturesToTrack only on the outside of that mask. This would ideally give us more points on the perimeter of the image.  
+
 
 ### MLH - To the Moon and Hack 2020 - MuscleMath
 [GitHub Project](https://github.com/eyfb/MuscleMath)  
