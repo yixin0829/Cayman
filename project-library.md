@@ -6,7 +6,7 @@ description: Welcome to my Project Library!
 
 ## Hackathons
 * * *
-### MLH - Newhacks 2020 - TotallyNotAVirus
+### IEEE UofT- Newhacks 2020 - TotallyNotAVirus
 [Devpost Submission](https://devpost.com/software/totallynotavirus)  
 
 This was my first full 24-hour, no rest hackathon. Why? I felt strongly motivated to work on something that had such genuine potential to do good in the world - a COVID-19 Diagnosis app that uses sample cough audio to predict your chances of having the virus. Was it a stretch for a 24-hour hackathon? Yes. Was it fun and challenging? Absolutely. Did our project work without flaws in the end? No, not a chance. Did we learn a lot? Totally. I think the most important part of any hackathon is what you get out of it in the end. In this hackathon, I learned more about OpenCV Perspective Transforms, Mel Spectrograms (representing audio in image format), and serialization of ML models.  
