@@ -34,7 +34,7 @@ Here is an example of how a corner case (in which 2 corners of the original spec
 ![corner_case_before_after](/assets/Project_Pictures/corner_case_before_after.png)
 
 #### Limitations
-One limitation of this algorithm is that it will only work on images in which the closest point to the corner of the image lies very close or on the *vertice* of the spectrogram. If an image is rotated/skewed too much (>45 degrees maybe), then the closest point may lie on an *edge* rather than a corner/vertice. goodFeaturesToTrack will then skew the image incorrectly (and the spectrogram will have distorted audio when converted back to raw audio as a result).
+One limitation of this algorithm is that it will only work on images in which the closest point to the corner of the image lies very close or on the *vertex* of the spectrogram. If an image is rotated/skewed too much (>45 degrees maybe), then the closest point may lie on an *edge* rather than a corner/vertice. goodFeaturesToTrack will then skew the image incorrectly (and the spectrogram will have distorted audio when converted back to raw audio as a result).
  
 #### What would I change for next time?  
 I would try to minimize the number of unneccessary points found on the original spectrogram. A potential method could be to create a mask of the original spectrogram, reduce the size by a small %, and then use goodFeaturesToTrack only on the outside of that mask. This would ideally give us more points on the perimeter of the image.
