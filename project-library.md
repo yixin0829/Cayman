@@ -29,7 +29,7 @@ Here are some examples of the improvement in output image quality after modifyin
 ![before_and_after_tweak_goodFeaturesToTrack](/assets/Project_Pictures/before_and_after_tweak_goodFeaturesToTrack.png)
 
 Here is an example of how a corner case (in which 2 corners of the original spectrogram are missing) still successfully undergoes a perspective transform:  
-(the blue points are those found by goodFeaturesToTrack)
+(the blue points are those found by goodFeaturesToTrack)  
 ![corner_case_before_after](/assets/Project_Pictures/corner_case_before_after.png)
 
 
