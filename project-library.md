@@ -4,7 +4,7 @@ title: Projects
 description: Welcome to my Project Library!
 ---
 
-## Hardware
+## Hackathons
 * * *
 ### MLH - Newhacks 2020 - TotallyNotAVirus
 [Devpost Submission](https://devpost.com/software/totallynotavirus)  
@@ -42,6 +42,15 @@ This was a fantastic hackathon to attend during the pandemic in the summer of 20
 <!--YouTube-->
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yJsUVUOrPow' frameborder='0' allowfullscreen></iframe></div>
 
+### MLH - MakeUofT 2020 - StayEnlightened
+[GitHub Project](https://github.com/joonhosung/StayEnlightened)  
+[Devpost Submission](https://devpost.com/software/stayenlightened)  
+
+This project was created to solve a problem in study spaces with motion-activated lighting: when students are studying (i.e. not moving), lighting will turn off automatically, creating a distraction and making it hard to maintain focus. Our team remedied the problem by using a webcam with OpenCV, Python, Arduino, and the Qualcomm Dragonboard 410C to detect not only motion, but human presence, ensuring the lights are kept on until no humans are present. In this project, I learned how to use OpenCV and Python to grab individual frames from a Logitech webcam. I also integrated the Grove Base Shield on the Qualcomm DragonBoard 410C and implemented a PIR sensor to detect motion using Arduino. Finally, I wrote code to transmit and receive serial data between the Arduino and Python OpenCV camera code.
+
+## Courses
+* * *
+
 ### CS50AI - Harvard's Introduction to Artificial Intelligence with Python
 I had a lot of fun doing the projects for CS50AI. I hadn't used Python to much of an extent before this course, but I happily learned it to be able to play around with some cool AI-driven projects. Here's the final project, an AI that answers questions using the nltk library and TF-IDF to rank documents in the AI's knowledge base of wikipedia articles.  
 <!--YouTube-->
@@ -59,17 +68,13 @@ I had a lot of fun doing the projects for CS50AI. I hadn't used Python to much o
 •	Wrote a natural language parser with nltk, using context-free grammar to build trees and extract noun-chunk phrases  
 •	Built an AI to answer questions using nltk and TF-IDF to rank existing documents in the AI’s knowledge base  
 
+## Hardware
+* * *
 
 ### Split Mechanical Keyboard
 Built over the summer of 2020 as a fun side project, this keyboard is split for better ergonomics, and features wrist rests for reduced strain on wrists. This project was built using the following [thingiverse project](https://www.thingiverse.com/thing:2879329). Cherry MX Red mechanical switches were soldered with a wire and diode matrix. The firmware was generated from this [tool](https://kbfirmware.com/) and flashed to an Arduino Pro Micro. One addition I made to this project was a reset push-button to enable firmware flashing with updated keyboard layers/macros. The case was 3D printed using an Ender 3 Pro with tranparent and white PLA.
   
 ![split_mech](/assets/Project_Pictures/split_mech.jpg)
-
-### MLH - MakeUofT 2020 - StayEnlightened
-[GitHub Project](https://github.com/joonhosung/StayEnlightened)  
-[Devpost Submission](https://devpost.com/software/stayenlightened)  
-
-This project was created to solve a problem in study spaces with motion-activated lighting: when students are studying (i.e. not moving), lighting will turn off automatically, creating a distraction and making it hard to maintain focus. Our team remedied the problem by using a webcam with OpenCV, Python, Arduino, and the Qualcomm Dragonboard 410C to detect not only motion, but human presence, ensuring the lights are kept on until no humans are present. In this project, I learned how to use OpenCV and Python to grab individual frames from a Logitech webcam. I also integrated the Grove Base Shield on the Qualcomm DragonBoard 410C and implemented a PIR sensor to detect motion using Arduino. Finally, I wrote code to transmit and receive serial data between the Arduino and Python OpenCV camera code.
 
 ### Chord Machine - FPGA Audio Synthesizer
 This was a project for a Digital Systems course in second year ECE at the Unversity of Toronto. Using the DE1-SoC FPGA and Quartus Prime 18.1, I programmed the audio chipset on the DE1-SoC board to create square, triangle and saw waveforms (Verilog). The board can interface with a PS/2 keyboard to allow the user to play along with a built-in 4/4 looper. More details can be read about [here.](https://github.com/iWebster28/Music/blob/master/ChordMachine/ChordMachineFinal/ECE241%20Final%20Project%20Report%20-%20Ian%20Webster%20-%20Github.pdf)
@@ -121,7 +126,7 @@ Front-Down                                                        |  Front
 :----------------------------------------------------------------:|:-------------------------------------------------:
 ![Server_Cabinet1](/assets/Project_Pictures/Server_Cabinet1.jpg)  |  ![Server_Cabinet2](/assets/Project_Pictures/Server_Cabinet2.jpg)
 
-## Software
+## Past Software
 * * *
 
 ### Java | 2D Wave Game
