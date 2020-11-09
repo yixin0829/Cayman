@@ -15,11 +15,23 @@ I mainly worked on image preprocessing. This was an interesting task as the inpu
 
 1. I used ```goodFeaturesToTrack(..., 40, ..., 50)``` to find the 40 most relevant points outlining the original spectrogram. The 50 specifies the minimum spacing between points (this ensured we didn't get points on the contours of the spectrogram frequencies by accident). I then approximated the distance between each found point on the spectrogram and the actual corners of the image. Next, it was an easy step to find the minimum distance between a given point and the closest corner. The closest point to each corner was saved; the next step is to use it for the perspective transformation.   
 
-2. After approximating the four corners of the original spectrogram, we apply a perspective transformation, which uses a transformation matrix consisting of the closest points we found, and the new points we'd like to map them to (the actual corners of the image). 
+2. After approximating the four corners of the original spectrogram, we apply a perspective transformation, which uses a transformation matrix consisting of the closest points we found, and the new points we'd like to map them to (the actual corners of the image).  
 
-Here are some examples of the input spectrogram images (before) and the output images (after):  
+Here are some examples of the input spectrogram images (before) and the output images (after): 
+  
+Before                                                              |  After
+:-----------------------------------------------------------------:|:-------------------------------------------------:
+![covid_negatives_original](/assets/Project_Pictures/covid_negatives_original.png)  |  ![covid_negatives_processed](/assets/Project_Pictures/covid_negatives_processed.png)
+
 
 Here are some examples of the improvement in output image quality after modifying parameters of goodFeaturesToTrack. (This reduced warping/skewing issues by around 66% (or a reduction in error from 3% of overall dataset to 1% of overall dataset):  
+
+![before_and_after_tweak_goodFeaturesToTrack](/assets/Project_Pictures/before_and_after_tweak_goodFeaturesToTrack.png)
+
+Here is an example of how a corner case (in which 2 corners of the original spectrogram are missing) still successfully undergoes a perspective transform:  
+(the blue points are those found by goodFeaturesToTrack)
+![corner_case_before_after](/assets/Project_Pictures/corner_case_before_after.png)
+
 
 ### MLH - To the Moon and Hack 2020 - MuscleMath
 [GitHub Project](https://github.com/eyfb/MuscleMath)  
