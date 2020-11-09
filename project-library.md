@@ -6,6 +6,20 @@ description: Welcome to my Project Library!
 
 ## Hardware
 * * *
+### MLH - Newhacks 2020 - TotallyNotAVirus
+[Devpost Submission](https://devpost.com/software/totallynotavirus)  
+
+This was my first full 24-hour, no rest hackathon. Why? I felt strongly motivated to work on something that had such genuine potential to do good in the world - a COVID-19 Diagnosis app that uses sample cough audio to predict your chances of having the virus. Was it a stretch for a 24-hour hackathon? Yes. Was it fun and challenging? Absolutely. Did our project work without flaws in the end? No, not a chance. Did we learn a lot? Totally. I think the most important part of any hackathon is what you get out of it in the end. In this hackathon, I learned more about OpenCV Perspective Transforms, Mel Spectrograms (representing audio in image format), and serialization of ML models.  
+
+I mainly worked on image preprocessing. This was an interesting task as the input data we had sourced from [Kaggle](https://www.kaggle.com/anaselmasry/ai-covid19-from-cough-samples) had inconsistent image scaling and rotation. After researching different methods of rotation, scaling, cropping, and contour tracing, I decided the best method would involve the combination of: 1. Finding the best approximation of 4 corners of the spectrogram image, and 2. Using these points to perform a perspective transformation, which will take care of both scaling and rotation (think of it as "warping" the entire image).  
+
+1. I used ```goodFeaturesToTrack(..., 40, ..., 50)``` to find the 40 most relevant points outlining the original spectrogram. The 50 specifies the minimum spacing between points (this ensured we didn't get points on the contours of the spectrogram frequencies by accident). I then approximated the distance between each found point on the spectrogram and the actual corners of the image. Next, it was an easy step to find the minimum distance between a given point and the closest corner. The closest point to each corner was saved; the next step is to use it for the perspective transformation.   
+
+2. After approximating the four corners of the original spectrogram, we apply a perspective transformation, which uses a transformation matrix consisting of the closest points we found, and the new points we'd like to map them to (the actual corners of the image). 
+
+Here are some examples of the input spectrogram images (before) and the output images (after):  
+
+Here are some examples of the improvement in output image quality after modifying parameters of goodFeaturesToTrack. (This reduced warping/skewing issues by around 66% (or a reduction in error from 3% of overall dataset to 1% of overall dataset):  
 
 ### MLH - To the Moon and Hack 2020 - MuscleMath
 [GitHub Project](https://github.com/eyfb/MuscleMath)  
