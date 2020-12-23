@@ -5,45 +5,73 @@ description: My musical side.
 ---
 ## Recent Transcriptions
 
-<p>
-  <iframe
-    src="https://drive.google.com/file/d/1F-lxRHYd0XG6X9WAJX1IBY1TbArTbyGN/preview"
-    scrolling="auto"
-    width="100%" 
-    height="400" 
-    frameborder="0" >
-  </iframe> 
-</p>
-
-<p>
-  <iframe
-    src="https://drive.google.com/file/d/1IT9XCzNBUyBnnIppIcIHTJQHZOkcPsTr/preview"
-    scrolling="auto"
-    width="100%" 
-    height="400" 
-    frameborder="0" >
-  </iframe> 
-</p>
-
-<p>
-  <iframe
-    src="https://drive.google.com/file/d/14rGW7JuqpTg2-VoUnwPqeIndwvWBUoGH/preview"
-    scrolling="auto"
-    width="100%" 
-    height="400" 
-    frameborder="0" >
-  </iframe> 
-</p>
-
-<p>
-  <iframe
-    src="https://drive.google.com/file/d/1rkrxxIOzsBEL91c6qR-bjsx-ikJ5j4CZ/preview"
-    scrolling="auto"
-    width="100%" 
-    height="400" 
-    frameborder="0" >
-  </iframe> 
-</p>
+<!-- Carousel -->
+<div id="mainCarousel" class="carousel slide overflow-hidden" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#mainCarousel" data-slide-to="1"></li>
+        <li data-target="#mainCarousel" data-slide-to="2"></li>
+        <li data-target="#mainCarousel" data-slide-to="3"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="carousel-button-align">
+                <p><a class="btn btn-carousel" href="https://drive.google.com/file/d/1F-lxRHYd0XG6X9WAJX1IBY1TbArTbyGN/preview" role="button">Download PDF</a></p>
+            </div>
+            <iframe
+                src="https://drive.google.com/file/d/1F-lxRHYd0XG6X9WAJX1IBY1TbArTbyGN/preview"
+                scrolling="auto"
+                width="100%" 
+                height="400" 
+                frameborder="0" >
+            </iframe> 
+        </div>
+        <div class="carousel-item">
+            <div class="carousel-button-align">
+                <p><a class="btn btn-carousel" href="https://drive.google.com/file/d/1IT9XCzNBUyBnnIppIcIHTJQHZOkcPsTr/preview" role="button">Download PDF</a></p>
+            </div>
+            <iframe
+                src="https://drive.google.com/file/d/1IT9XCzNBUyBnnIppIcIHTJQHZOkcPsTr/preview"
+                scrolling="auto"
+                width="100%" 
+                height="400" 
+                frameborder="0" >
+            </iframe> 
+        </div>
+        <div class="carousel-item">
+            <div class="carousel-button-align">
+                <p><a class="btn btn-carousel" href="https://drive.google.com/file/d/14rGW7JuqpTg2-VoUnwPqeIndwvWBUoGH/preview" role="button">Download PDF</a></p>
+            </div>
+            <iframe
+                src="https://drive.google.com/file/d/14rGW7JuqpTg2-VoUnwPqeIndwvWBUoGH/preview"
+                scrolling="auto"
+                width="100%" 
+                height="400" 
+                frameborder="0" >
+            </iframe>
+        </div>
+        <div class="carousel-item">
+            <div class="carousel-button-align">
+                <p><a class="btn btn-carousel" href="https://drive.google.com/file/d/1rkrxxIOzsBEL91c6qR-bjsx-ikJ5j4CZ/preview" role="button">Download PDF</a></p>
+            </div>
+            <iframe
+                src="https://drive.google.com/file/d/1rkrxxIOzsBEL91c6qR-bjsx-ikJ5j4CZ/preview"
+                scrolling="auto"
+                width="100%" 
+                height="400" 
+                frameborder="0" >
+            </iframe> 
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#mainCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#mainCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+    </a>
+</div>
 
 ## Myself and Music
 I've had a bit of history with music. I began taking piano lessons when I was 4 years old. After practicing classical for 10 years, I decided to start exploring other genres: video game soundtracks, orchestral arrangements and jazz. Throughout highschool, I was a part of multiple bands (jazz, concert, and pit orchestra), playing the tenor saxophone and piano. At this time, I began discovering my interest in jazz. I began lessons with the renowned Canadian jazz pianist Steve Holt. A few friends and I formed a band called LMJC, and began performing gigs regularly at a restaurant called Hot Belly Mama's. We played at venues such as Trent University, Long and McQuade music stores, Mercedes-Benz, and various pubs in Peterborough, ON. During the Terry Fox Campaign in 2017, our band campaigned to raise money for cancer research. 
