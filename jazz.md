@@ -82,7 +82,7 @@ In second year, I explored playing more RnB, Funk and Soul with the Skule™ Jaz
 
 Now, in my third year, I've taken directorship of the Skule™ Jazz Combo, and I am taking a Music Performance Minor in Jazz Piano. I also manage our official website, [jazz.skule.ca](https://jazz.skule.ca/), check it out! 
 
-![Terry_Fox_Jazz](/assets/Project_Pictures/Terry_Fox_Jazz.png)
+<img src="assets/Project_Pictures/Terry_Fox_Jazz.png" alt=Terry_Fox_Jazz class="center">
 
 ## Links
 
