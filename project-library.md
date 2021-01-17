@@ -8,7 +8,7 @@ description: Welcome to my Project Library!
 * * *
 ### Hack the North 2020++ - CIA - "Car Impact Associator"
 ![cia](/assets/Project_Pictures/cia_ui5.png)  
-![cia](_site/assets/Project_Pictures/cia_ui4.png)  
+![cia](/assets/Project_Pictures/cia_ui4.png)  
 
 [Devpost Submission](https://devpost.com/software/car-impact-associator-cia)  
 
