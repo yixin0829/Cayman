@@ -6,6 +6,11 @@ description: Welcome to my Project Library!
 
 ## Hackathons
 * * *
+### Hack the North 2020++ - CIA - "Car Impact Associator"
+[Devpost Submission](https://devpost.com/software/car-impact-associator-cia)  
+CIA, or Car Impact Associator, aims to convince the general public to make economically and environmentally informed decisions on the purchase of automobiles. Our team pulled together a React App that allows the user to compare two vehicles in terms of annual oil barrel consumption, carbon emissions, and other environmental indicators.   
+Our backend consisted of a Flask App interfaced with CockroachDB and a database of over 20 000 North American automobiles and their specifications. Our frontend consisted of React with Material-UI and DevExtreme React Charts. I had lots of fun over the course of 36 hours learning more about components, props, and hooks in React, while also exploring UI/UX design with Material-UI and its many features - some of which being Combo Boxes, Cards, and Grids. In the future, I'd like to explore creating more dynamic pages with React, and learning to use state and hooks more effectively to create aesthetic user experiences.
+
 ### IEEE UofT- Newhacks 2020 - TotallyNotAVirus
 [Devpost Submission](https://devpost.com/software/totallynotavirus)  
 
