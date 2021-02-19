@@ -86,6 +86,8 @@ Now, in my third year, I've taken directorship of the Skule™ Jazz Combo, and I
 
 ## Links
 
+<iframe class="center" src="https://open.spotify.com/embed/playlist/1jYSNDL0yn9MaL2TVecgXc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 Project Videos/Performances: [YouTube](https://www.youtube.com/channel/UC6JzdYelcu9M9A-flCpVOEQ)  
 Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)
 
