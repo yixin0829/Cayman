@@ -82,18 +82,20 @@ In second year, I explored playing more RnB, Funk and Soul with the Skule™ Jaz
 
 Now, in my third year, I've taken directorship of the Skule™ Jazz Combo, and I am taking a Music Performance Minor in Jazz Piano. I also manage our official website, [jazz.skule.ca](https://jazz.skule.ca/), check it out! 
 
+You can checkout some of my past projects below!
+Project Videos/Performances: [YouTube](https://www.youtube.com/channel/UC6JzdYelcu9M9A-flCpVOEQ)  
+Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)
+LMJC @ Hot Belly Mama’s Restuarant, Peterborough, ON: [Google Drive](https://drive.google.com/open?id=1Hn4TjYWsfGigKvTaUdFP1fDMM10dNhW0)
+
 <img src="assets/Project_Pictures/Terry_Fox_Jazz.png" alt=Terry_Fox_Jazz class="center">
 
-## Links
+## Spotify
+
+Below are some sessions with the talented saxophonist Noah Abrahamse. My Little Suede Shoes and Blue Bossa always remind me of the early days playing at the Peterborough and Lakefield Farmer's markets - there's something special about playing jazz under the morning sun with a refreshing windy breeze. Conversation Among the Ruins was recorded impromptu after seeing the piece once before the session! Check out this [link](https://www.youtube.com/watch?v=a89HEvzRDOQ) for a cover of Beauty and the Beast theme that Noah and I did in the Summer of 2020!
 
 <iframe class="center" src="https://open.spotify.com/embed/playlist/1jYSNDL0yn9MaL2TVecgXc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Project Videos/Performances: [YouTube](https://www.youtube.com/channel/UC6JzdYelcu9M9A-flCpVOEQ)  
-Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)
-
-Some recordings of my band at Hot Belly Mama’s Restuarant, Peterborough, ON: [Google Drive](https://drive.google.com/open?id=1Hn4TjYWsfGigKvTaUdFP1fDMM10dNhW0)
-
-My most recent tracks:
+## SoundCloud
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/784330816&color=%230d00ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/iwebsterproductions" title="iWebsterProductions" target="_blank" style="color: #cccccc; text-decoration: none;">iWebsterProductions</a> · <a href="https://soundcloud.com/iwebsterproductions/hey-its-okay-to-start-over-again" title="Hey, It's Okay To Start Over Again" target="_blank" style="color: #cccccc; text-decoration: none;">Hey, It's Okay To Start Over Again</a></div>
 
