@@ -82,10 +82,10 @@ In second year, I explored playing more RnB, Funk and Soul with the Skule™ Jaz
 
 Now, in my third year, I've taken directorship of the Skule™ Jazz Combo, and I am taking a Music Performance Minor in Jazz Piano. I also manage our official website, [jazz.skule.ca](https://jazz.skule.ca/), check it out! 
 
-You can checkout some of my past projects below!
+You can checkout some of my past projects below!  
 Project Videos/Performances: [YouTube](https://www.youtube.com/channel/UC6JzdYelcu9M9A-flCpVOEQ)  
-Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)
-LMJC @ Hot Belly Mama’s Restuarant, Peterborough, ON: [Google Drive](https://drive.google.com/open?id=1Hn4TjYWsfGigKvTaUdFP1fDMM10dNhW0)
+Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)  
+LMJC @ Hot Belly Mama’s Restuarant, Peterborough, ON: [Google Drive](https://drive.google.com/open?id=1Hn4TjYWsfGigKvTaUdFP1fDMM10dNhW0)  
 
 <img src="assets/Project_Pictures/Terry_Fox_Jazz.png" alt=Terry_Fox_Jazz class="center">
 
