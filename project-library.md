@@ -6,6 +6,30 @@ description: Welcome to my Project Library!
 
 ## Hackathons
 * * *
+### MLH - MakeUofT 2021 - wavechord
+
+[Devpost Submission](https://devpost.com/software/wavechord)  
+
+The idea behind wavechord was to build a music creation tool that makes it easy for non-musicians to make music. Using a Kinect as a camera, wavechord detects hand position and plays corresponding chords that sound good together.  
+
+I worked on setting up the Raspberry Pi 3 B+ with Kinect support, OpenCV, and PyAudio for audio synthesis. I learned a lot about using cmake on a limited-RAM systems like the Pi - configuring swap space is extremely important! I was able to build OpenCV with FFMPEG support, which allowed us to grab video from the Kinect - however, this was limited to 8-bit grayscale. I was able to use other utilities like guvcview to read the depth and colour information, but I could not figure out how to capture video using OpenCV in these modes. I tried compiling libraries such as libfreenect for Python, but they did not end up working properly (ioctl errors). In the end, I ended up using fswebcam to capture colour pictures, which are read into OpenCV periodically (e.g. at 1 FPS). In the future, I may try compiling openkinect again.  
+
+After finding some hand-detection code and implementing it with the kinect, I explored implmenting various Python audio libraries. I tried to use [Pyo](http://ajaxsoundstudio.com/software/pyo/) but ran into many errors with the audio output on the Pi. I settled with using [PyAudio](https://pypi.org/project/PyAudio/) which ended up throwing a few less errors, and it actually produced audbile output. I did some quick music math to allow the user's hand motion to play chords.  
+
+Samples for individual notes are generated using the ```sin``` function in numpy. Samples for chords are generated using the following expression:   ```sum([np.sin(2*np.pi*np.arange(fs*duration)*f/fs).astype(np.float32)/self.n for f in freqs])```,
+```
+where:
+fs = sampling frequency (44.1 kHZ)
+duration = length of note in seconds
+f = frequency of note (Hz)
+n = number of notes in `freqs` list (chord)
+```  
+The code above sums up the frequencies of all the individual notes in a chord. Importantly, we have to average the frequencies such that their sum does not distort the output at any instant in time. I made use of a formula to generate key frequencies corresponding to note numbers on the piano. ```f = 2 ** ((i - 49) / 12) * 440``` calculates the frequency `f` of the `i`th note on the piano, where the lowest note (A0) is the `0`th note. I had tried to use this formula a year earlier in an [FPGA Synthesizer project](https://github.com/iWebster28/Music), but I could not get it working - I'll have another go at it some day! 
+
+Converting the screen coordinate system to a specific range of piano keys was an interesting problem. Alexis came up with ```root = int(curr_x / x_max * (key_max - key_range) + key_range)``` to set ranges for which notes on the piano can be played with your hand over the kinect. We then restricted the ranges to correspond to only certain scale degrees (i.e. I, IV and V) which are very commonly used in Western music.  
+
+Check out the devpost submission above to see the project in action!  
+
 ### Hack the North 2020++ - CIA - "Car Impact Associator"
 ![cia](/assets/Project_Pictures/cia_ui5.png)  
 ![cia](/assets/Project_Pictures/cia_ui4.png)  
