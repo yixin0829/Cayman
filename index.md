@@ -10,7 +10,7 @@ Hi, my name's Ian! I currently attend the University of Toronto for Computer Eng
 This site will showcase some of my past projects while giving you a better idea of who I am.
 
 ## Contact Information
-I can be contacted by email [here](./contact/index.html).
+I can be contacted by email [here](./contact.html).
 
 ## Projects
 A library of projects I have completed over the years can be found in my Project Library [here](./project-library.html).
