@@ -74,9 +74,9 @@ description: My musical side.
 </div>
 
 ## Myself and Music
-I've had a bit of history with music. I began taking piano lessons when I was 4 years old. After practicing classical for 10 years, I decided to start exploring other genres: video game soundtracks, orchestral arrangements and jazz. Throughout highschool, I was a part of multiple bands (jazz, concert, and pit orchestra), playing the tenor saxophone and piano. At this time, I began discovering my interest in jazz. I began lessons with the renowned Canadian jazz pianist Steve Holt. A few friends and I formed a band called LMJC, and began performing gigs regularly at a restaurant called Hot Belly Mama's. We played at venues such as Trent University, Long and McQuade music stores, Mercedes-Benz, and various pubs in Peterborough, ON. During the Terry Fox Campaign in 2017, our band campaigned to raise money for cancer research. 
+I began taking piano lessons when I was 4 years old. After studying classical for 10 years, I decided to start exploring other genres: video game soundtracks, orchestral arrangements and jazz. Throughout highschool, I played in as many bands as I could (jazz, concert, and pit orchestra), playing the tenor saxophone and piano. At this time, I began discovering my interest in jazz. I began lessons with the renowned Canadian jazz pianist Steve Holt. A few friends and I formed a band called LMJC, and began performing gigs regularly at a restaurant called Hot Belly Mama's. We played at venues such as Trent University, Long and McQuade music stores, Mercedes-Benz, and various pubs in Peterborough, ON. During the Terry Fox Campaign in 2017, our band campaigned to raise money for cancer research. 
 
-As part of the Skule™ engineering community at UofT, I have been both a member and director for Stage Band Blue, a small combo focused on performing jazz standards while developing the skills to play with other musicians. It was a blast organizing weekly practices and gigs. On the off time, I've occasionally sit in for gigs with Stage Band Gold, with big-band style jazz.
+As part of the Skule™ engineering community at UofT, I have been both a member and director for Stage Band Blue, a small combo focused on performing jazz standards while developing the skills to play with other musicians. It was a blast organizing weekly practices and gigs. I also sit in for gigs with Stage Band Gold and its big-band style jazz.
 
 In second year, I explored playing more RnB, Funk and Soul with the Skule™ Jazz Combo, and I played more traditional jazz with the Hart House Jazz Combo. 
 
@@ -85,13 +85,12 @@ Now, in my third year, I've taken directorship of the Skule™ Jazz Combo, and I
 You can checkout some of my past projects below!  
 Project Videos/Performances: [YouTube](https://www.youtube.com/channel/UC6JzdYelcu9M9A-flCpVOEQ)  
 Personal compositions: [SoundCloud](https://soundcloud.com/iwebsterproductions)  
-LMJC @ Hot Belly Mama’s Restuarant, Peterborough, ON: [Google Drive](https://drive.google.com/open?id=1Hn4TjYWsfGigKvTaUdFP1fDMM10dNhW0)  
 
 <img src="assets/Project_Pictures/Terry_Fox_Jazz.png" alt=Terry_Fox_Jazz class="center">
 
 ## Spotify
 
-Below are some sessions with the talented saxophonist Noah Abrahamse. My Little Suede Shoes and Blue Bossa always remind me of the early days playing at the Peterborough and Lakefield Farmer's markets - there's something special about playing jazz under the morning sun with a refreshing windy breeze. Conversation Among the Ruins was recorded impromptu after seeing the piece once before the session! Check out this [link](https://www.youtube.com/watch?v=a89HEvzRDOQ) for a cover of Beauty and the Beast theme that Noah and I did in the Summer of 2020!
+Below are some sessions with the talented saxophonist Noah Abrahamse. My Little Suede Shoes and Blue Bossa always remind me of the early days playing at the Peterborough and Lakefield Farmer's markets - there's something special about playing jazz under the morning sun with a cool breeze. Conversation Among the Ruins was recorded impromptu after seeing the piece once before the session! Check out this [link](https://www.youtube.com/watch?v=a89HEvzRDOQ) for a cover of Beauty and the Beast theme that Noah and I did in the Summer of 2020!
 
 <iframe class="center" src="https://open.spotify.com/embed/playlist/1jYSNDL0yn9MaL2TVecgXc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
